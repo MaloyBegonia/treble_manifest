@@ -17,4 +17,5 @@
 <project path="prebuilts/vndk/v28" name="prebuilts_vndk_v28" remote="naz" revision="master" />
 
 <project path="packages/apps/Calculator-IOS" name="packages_apps_Calculator-IOS" remote="maloy" revision="main" />
+<project patch="signedscript" name="Miku-ui-build-signed-script" remote="maloy" revision="main" />
 </manifest>
